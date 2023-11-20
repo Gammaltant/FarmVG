@@ -1,0 +1,7 @@
+1,Oats,grain,350
+2,Apple,fruit,350
+3,Hay,grass,1543
+4,Soy,forage,382
+5,Carrot,vegetables,543
+6,Root vegetables,vegetables,892
+7,Fish,seafood,25

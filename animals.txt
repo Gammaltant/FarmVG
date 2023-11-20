@@ -1,0 +1,10 @@
+1,Rosa,cow, grass@grain
+2,Greta,pig, forage@vegetables@fruit
+3,Sonette,horse, fruit@grain@grass
+4,Tora,cow, grass@grain
+5,Simba,cat, seafood
+6,Dharma,lama, fruit
+7,Egg Sheran,chicken, grain
+8,Eggatha Christie ,chicken, grain
+9,Pelle,Ko,  grass
+10,Anna,ko, grass
