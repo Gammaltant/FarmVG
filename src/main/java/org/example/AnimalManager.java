@@ -9,7 +9,6 @@ import java.util.Scanner;
 
 public class AnimalManager {
 
-    CropManager cropManager = new CropManager();
     ArrayList<String> cropList = new ArrayList<>();
     ArrayList<Animal> animalList = new ArrayList<>();
     Scanner scanner = new Scanner(System.in);
